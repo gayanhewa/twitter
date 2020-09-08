@@ -45,6 +45,5 @@
                 "NotificationChannels\\Twitter\\TwitterServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
